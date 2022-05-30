@@ -10,7 +10,7 @@ def reddit_init():
         username = "",
         password = "",
     )
-    
+
     new_account = praw.Reddit(
         client_id = "",
         client_secret = "",
@@ -18,6 +18,5 @@ def reddit_init():
         username = "",
         password = "",
     )
-
 
     return old_account, new_account

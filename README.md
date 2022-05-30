@@ -21,5 +21,5 @@ Collect the necessary information - Client ID, Client Secret, User Agent, and th
 2. Click on the 'are you a developer? create an app...' button.
 !['are you a developer? create an app...' button](https://github.com/erin-bristow/reddit-account-migration/blob/main/img/dev_button.PNG)
 3. Fill in the info.
-![name, script, description, and redirect uri (can just be https://reddit.com)](https://github.com/erin-bristow/reddit-account-migration/blob/main/img/create_app.PNG)
+![name, script, description, and redirect uri (should be https://oauth.reddit.com)](https://github.com/erin-bristow/reddit-account-migration/blob/main/img/create_app.PNG)
 4. Use the provided info. The client ID is at least a 14-character string listed just under “personal use script” for the desired developed application. The client secret is at least a 27-character string listed next to "secret" for the application. For user_agent, write something descriptive like "Migrating between two user accounts by /u/myusernamehere". 
